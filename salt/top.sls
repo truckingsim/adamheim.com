@@ -1,3 +1,3 @@
-adamheimcom:
+base:
   '*':
-    - docker
+    - adamheimcom

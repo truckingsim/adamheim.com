@@ -1,7 +1,7 @@
 "nginx":
   dockerng.image_present
 
-"truckingsim/adamheim.com:latest"
+"truckingsim/adamheim.com:latest":
   dockerng.image_present
 
 site:
