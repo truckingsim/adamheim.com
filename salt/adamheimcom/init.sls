@@ -1,2 +1,2 @@
-'*':
-  - docker
+include:
+  - adamheimcom.docker
